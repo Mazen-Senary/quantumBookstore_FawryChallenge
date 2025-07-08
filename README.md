@@ -4,8 +4,9 @@ this project was designed using core oop principles including abstraction, inher
 
 
 
-solution and application output:
+solution  and output:
 ![image](https://github.com/user-attachments/assets/5bdb852c-d330-47f9-bcdb-dd56078460f0)
+
 
 
 
